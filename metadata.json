@@ -1,0 +1,6 @@
+{
+  "name": "Escucha y responde — Español + Հայերեն",
+  "description": "Интерактивный тренажер разговорного испанского для армяноязычных учеников 7 класса (A1–B1): 130 вопросов с ответами, аудио, мгновенный перевод и режим 5 секунд.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
